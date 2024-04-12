@@ -77,9 +77,7 @@ jobs:
     - name: Setup MSBuild.exe
       uses: microsoft/setup-msbuild@v2
       
-    # AddBuild to the project 
-    - name: Build Solution
-      run: dotnet build 
+   
       
     # Execute all unit tests in the solution
     - name: Execute unit tests
