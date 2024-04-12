@@ -9,3 +9,4 @@ C:\Users\Nanda\Desktop\MyProjects\Utilities\Utilities\obj\Debug\net8.0\Utilities
 C:\Users\Nanda\Desktop\MyProjects\Utilities\Utilities\obj\Debug\net8.0\refint\Utilities.dll
 C:\Users\Nanda\Desktop\MyProjects\Utilities\Utilities\obj\Debug\net8.0\Utilities.pdb
 C:\Users\Nanda\Desktop\MyProjects\Utilities\Utilities\obj\Debug\net8.0\ref\Utilities.dll
+c:\Users\Nanda\Desktop\MyProjects\Utilities\Utilities\obj\Debug\net8.0\Utilities.sourcelink.json

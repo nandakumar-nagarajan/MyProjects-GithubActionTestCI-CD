@@ -14,9 +14,7 @@ public class UnitTest1
         foreach (var word in words)
         {
             bool result = word.StartsWithUpper();
-            Assert.IsTrue(result,
-                   string.Format("Expected for '{0}': true; Actual: {1}",
-                                 word, result));
+            Assert.IsTrue(result, string.Format("Expected for '{0}': true; Actual: {1}", word, result));
         }
     }
 
@@ -24,14 +22,11 @@ public class UnitTest1
     public void TestDoesNotStartWithUpper()
     {
         // Tests that we expect to return false.
-        string[] words = { "alphabet", "zebra", "abc", "αυτοκινητοβιομηχανία", "государство",
-                               "1234", ".", ";", " " };
+        string[] words = { "alphabet", "zebra", "abc", "αυτοκινητοβιομηχανία", "государство", "1234", ".", ";", " " };
         foreach (var word in words)
         {
             bool result = word.StartsWithUpper();
-            Assert.IsFalse(result,
-                   string.Format("Expected for '{0}': false; Actual: {1}",
-                                 word, result));
+            Assert.IsFalse(result, string.Format("Expected for '{0}': false; Actual: {1}", word, result));
         }
     }
 
@@ -43,9 +38,7 @@ public class UnitTest1
         foreach (var word in words)
         {
             bool result = StringLibrary.StartsWithUpper(word);
-            Assert.IsFalse(result,
-                   string.Format("Expected for '{0}': false; Actual: {1}",
-                                 word == null ? "<null>" : word, result));
+            Assert.IsFalse(result, string.Format("Expected for '{0}': false; Actual: {1}", word == null ? "<null>" : word, result));
         }
     }
 }

@@ -112,3 +112,4 @@ C:\Users\Nanda\Desktop\MyProjects\ToDoTest\obj\Debug\net8.0\ref\ToDoTest.dll
 C:\Users\Nanda\Desktop\MyProjects\ToDoTest\bin\Debug\net8.0\CoverletSourceRootsMapping_ToDoTest
 C:\Users\Nanda\Desktop\MyProjects\ToDoTest\bin\Debug\net8.0\Utilities.dll
 C:\Users\Nanda\Desktop\MyProjects\ToDoTest\bin\Debug\net8.0\Utilities.pdb
+c:\Users\Nanda\Desktop\MyProjects\ToDoTest\obj\Debug\net8.0\ToDoTest.sourcelink.json
